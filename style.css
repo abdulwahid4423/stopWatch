@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+  
+   background-image:url("https://media.istockphoto.com/photos/stopwatch-picture-id831676174?b=1&k=20&m=831676174&s=170667a&w=0&h=Hvm8kJey7BzdC2urbUJzpDoIAh6UTdpEEsFylOnHvoo=") ;
+ margin-top: 40px;
+}
+ h2{
+   
+    color: black;
+    display:inline-block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    color : #021420;
+    font-size: 100px;
+    
+    
+ }
+.btn1{
+   color :#0863a0;
+   margin: 10px;
+   border: #071118;
+   font-size: 50px;
+ /* background-color:transparent; */
+
+}
